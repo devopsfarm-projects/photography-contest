@@ -1,1 +1,1 @@
-# phtography-constest
+# photography-contest
